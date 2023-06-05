@@ -1,4 +1,4 @@
-# **Cardápio** - API RESTful
+# **Cardápio** Online
 
 Esta é uma API RESTful desenvolvida em Java utilizando o framework Spring Boot. Ela permite listar e cadastrar refeições em um cardápio, com informações como título, preço e imagem. Os dados são armazenados em um banco de dados PostgreSQL.
 
